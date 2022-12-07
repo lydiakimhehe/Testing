@@ -1,1 +1,6 @@
 Testing Git _test2
+
+Commit testing
+Check1
+Check2
+Check3
